@@ -9,37 +9,29 @@ function AboutCard() {
           <blockquote className="blockquote mb-0">
             <p style={{ textAlign: "justify" }}>
               <br />
-              I am <span className="purple">Valeria Arce, </span>a passionate full-stack developer based in <span className="purple">Toronto, Canada.</span> My love for problem-solving and creativity led
-              me to explore the world of web and app development, where I thrive on building digital solutions that
-              simplify workflows and enhance user experience.
-
+              Hi, I’m <b className="purple">Valeria Arce</b>, a full-stack developer based in <b className="purple">Toronto, Canada.</b>
+              My passion for technology lies in its ability to transform ideas into <b className="purple">innovative solutions</b> that solve real-world challenges.
               <br />
               <br />
-              I specialize in full-stack development with a strong focus on databases, web applications, and cloud-based
-              solutions.
+              I specialize in <b className="purple">web and mobile development</b>, with a strong focus on <b className="purple">database management, scalable APIs,</b> and <b className="purple">intuitive UI/UX design.</b>
               <br />
               <br />
-              I aspire to work on scalable applications that blend performance with great user experience while
-              continuously learning and growing as a developer.
+              My goal is to develop software that is not only functional but also <b className="purple">forward-thinking</b>—solutions that evolve with user needs and technological advancements.
               <br />
               <br />
-              Beyond coding, I enjoy activities that sharpen problem-solving skills and foster creativity:
+              Beyond coding, I engage in activities that enhance my <b className="purple">creativity</b> and <b className="purple">problem-solving skills:</b>
             </p>
             <ul>
               <li className="about-activity">
-                <ImPointRight /> Traveling to explore new cultures and cuisines
+                <ImPointRight /> Exploring new technologies and frameworks
               </li>
               <li className="about-activity">
-                <ImPointRight /> Playing games and solving puzzles
+                <ImPointRight /> Traveling and experiencing different cultures
               </li>
               <li className="about-activity">
-                <ImPointRight /> Practicing mindfulness, movement, and continuous self-improvement
+                <ImPointRight /> Practicing mindfulness and continuous learning
               </li>
             </ul>
-
-            <p style={{ color: "rgb(155 126 172)" }}>
-              "The only constant in technology is change." – Marc Andreessen
-            </p>
           </blockquote>
         </Card.Body>
       </Card>
