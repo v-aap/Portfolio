@@ -1,0 +1,36 @@
+.tech-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px 0;
+    outline: none; /* Removes any focus outlines */
+    border: none; /* Ensures no borders appear on hover */
+}
+
+.tech-name, .tool-name {
+    font-size: 0.8rem;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+    position: absolute;
+    bottom: -15px;
+    white-space: nowrap;
+    padding: 3px 8px;
+}
+
+.tech-container:hover .tech-name,
+.tech-container:hover .tool-name {
+    opacity: 1;
+}
+
+.tech-icons:hover,
+.tech-icons:focus,
+.tech-icons:active,
+.tech-container:hover,
+.tech-container:focus,
+.tech-container:active {
+    outline: none !important;
+    border: none !important;
+    box-shadow: none !important;
+}

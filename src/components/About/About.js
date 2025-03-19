@@ -2,10 +2,14 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
 import Github from "./Github";
-import Techstack from "./Techstack";
+import Languages from "./Languages";
+import Databases from "./Databases";
+import OperatingSystems from "./OperatingSystems";
+import Tools from "./Tools";
 import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/about.png";
-import Toolstack from "./Toolstack";
+import Frameworks from "./Frameworks";
+
 
 function About() {
   return (
@@ -22,7 +26,7 @@ function About() {
             }}
           >
             <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
-              Know Who <strong className="purple">I'M</strong>
+              Who I am in <strong className="purple">Code</strong>
             </h1>
             <Aboutcard />
           </Col>
@@ -35,15 +39,29 @@ function About() {
           </Col>
         </Row>
         <h1 className="project-heading">
-          Professional <strong className="purple">Skillset </strong>
+           <strong className="purple">Languages </strong>
         </h1>
-
-        <Techstack />
+        <Languages />
 
         <h1 className="project-heading">
-          <strong className="purple">Tools</strong> I use
+          <strong className="purple">Frameworks</strong> & <strong className="purple"> Libraries </strong>
         </h1>
-        <Toolstack />
+        <Frameworks />
+
+        <h1 className="project-heading">
+          <strong className="purple">Databases</strong>
+        </h1>
+        <Databases />
+
+        <h1 className="project-heading">
+          <strong className="purple">Tools</strong> & <strong className="purple"> Platforms </strong>
+        </h1>
+        <Tools />
+
+        <h1 className="project-heading">
+          <strong className="purple">Operating Systems</strong>
+        </h1>
+        <OperatingSystems />
 
         <Github />
       </Container>
