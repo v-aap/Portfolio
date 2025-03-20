@@ -7,7 +7,7 @@ import Databases from "./Databases";
 import OperatingSystems from "./OperatingSystems";
 import Tools from "./Tools";
 import Aboutcard from "./AboutCard";
-import laptopImg from "../../Assets/about.png";
+import laptopImg from "../../Assets/avatar.svg";
 import Frameworks from "./Frameworks";
 
 
