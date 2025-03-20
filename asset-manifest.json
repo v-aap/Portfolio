@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.d0e43a62.css",
+    "main.js": "/Portfolio/static/js/main.a2bc0509.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/weatherApp.png": "/Portfolio/static/media/weatherApp.c69b13c1ddbe9c43fd2b.png",
+    "static/media/headshot.jpg": "/Portfolio/static/media/headshot.3a609167f6530f579b1f.jpg",
+    "static/media/chatApp.png": "/Portfolio/static/media/chatApp.204162474ef2c1564a3a.png",
+    "static/media/about-removebg.png": "/Portfolio/static/media/about-removebg.e0e8b6bd0ad4de2d70e4.png",
+    "static/media/eventBooking.webp": "/Portfolio/static/media/eventBooking.20deb14b64901c49cb8a.webp",
+    "static/media/Valeria Arce - Resume.pdf": "/Portfolio/static/media/Valeria Arce - Resume.089d851f7ce3c0f13bd1.pdf",
+    "static/media/Valeria Arce - Cover Letter.pdf": "/Portfolio/static/media/Valeria Arce - Cover Letter.5b234ddf74849728219d.pdf",
+    "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/dineTrack.png": "/Portfolio/static/media/dineTrack.9c632fe5ad34df26a712.png",
+    "static/media/logov2.png": "/Portfolio/static/media/logov2.b3d23f5f7a2e1de31300.png",
+    "static/media/avatar.svg": "/Portfolio/static/media/avatar.b8d8ee23d287bc4ac355da22c723779a.svg",
+    "static/media/pre.svg": "/Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.d0e43a62.css.map": "/Portfolio/static/css/main.d0e43a62.css.map",
+    "main.a2bc0509.js.map": "/Portfolio/static/js/main.a2bc0509.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0e43a62.css",
+    "static/js/main.a2bc0509.js"
+  ]
+}
